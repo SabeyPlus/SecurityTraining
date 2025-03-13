@@ -1,5 +1,7 @@
 # Understanding QR Code Phishing: Risks and Prevention
 
+![QR Code Phishing Warning](43ef5fb2-a11d-4b5f-990a-41cfe144086a.webp)
+
 ## Introduction
 
 Quick Response (QR) codes have become ubiquitous, offering a convenient bridge between the physical and digital worlds. They are used for various purposes, from accessing restaurant menus to making payments. However, this convenience has also opened doors for cybercriminals to exploit QR codes for malicious activities, notably phishing attacks, commonly referred to as "quishing."
