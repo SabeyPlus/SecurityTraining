@@ -29,7 +29,7 @@ QR code phishing, or "quishing," involves embedding malicious URLs within QR cod
 
 ## Potential Dangers of Scanning Unknown QR Codes
 
-- **Data Theft**: Scanned QR codes can redirect users to fake login pages designed to harvest sensitive information, including usernames, passwords, and credit card details.
+- **Data Theft**: Scanned QR codes can redirect users to fake login pages designed to harvest sensitive information, including usernames, passwords, and credit card details. [Example, Data Theft](https://www.metacompliance.com/blog/data-breaches/5-damaging-consequences-of-a-data-breach)
 
 - **Malware Installation**: Some QR codes can initiate the download of malicious software onto your device, compromising its security and granting attackers unauthorized access.
 
